@@ -29,5 +29,5 @@ var images=[
      document.getElementById("mubla").src=photos[i]; i++;
   }
 
-  $('.carousel').carousel()
+
     
